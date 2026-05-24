@@ -16,3 +16,7 @@ __pycache__/
 # ---- Editor / IDE ----
 .vscode/
 .idea/
+
+# scripts kept locally but not pushed (one-off helpers)
+generate_report.py
+upload_to_modelscope.py
